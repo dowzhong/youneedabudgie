@@ -36,7 +36,7 @@ export default function Home() {
             </a>
           </p>
           <p>
-            In the meanwhile you can enjoy some other parakeets{" "}
+            In the meantime you can enjoy some other parakeets{" "}
             <a href="https://www.reddit.com/r/Parakeets/">here :)</a>
           </p>
           <p className={styles.textFaded}>
